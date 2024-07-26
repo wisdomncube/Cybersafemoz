@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "TanaTech-Main",
+			"path": "../TanaTech-Main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
